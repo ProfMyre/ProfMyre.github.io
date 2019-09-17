@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joseph M. Myre, Ph.D.</title>
+    <title>Joseph M. Myre</title>
     <link>https://profmyre.github.io/</link>
-    <description>Recent content on Joseph M. Myre, Ph.D.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+      <atom:link href="https://profmyre.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph M. Myre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>Joseph M. Myre</title>
+      <link>https://profmyre.github.io/</link>
+    </image>
     
-	<atom:link href="https://profmyre.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://profmyre.github.io/publication/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://profmyre.github.io/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;[header]
+image = &amp;ldquo;header.jpg&amp;rdquo;
+caption = &amp;ldquo;Image credit: &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Academic&lt;/strong&gt;&lt;/a&gt;&amp;ldquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://profmyre.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://profmyre.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/talk/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

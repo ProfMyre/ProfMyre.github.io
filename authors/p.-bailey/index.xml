@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Bailey | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/p.-bailey/</link>
+      <atom:link href="https://profmyre.github.io/authors/p.-bailey/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Bailey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>P. Bailey</title>
+      <link>https://profmyre.github.io/authors/p.-bailey/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating lattice-Boltzmann fluid flow simulations using graphics processors</title>
+      <link>https://profmyre.github.io/publication/2009_lbm_gpu_accel/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2009_lbm_gpu_accel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

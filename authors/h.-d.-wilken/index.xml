@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. D. Wilken | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/h.-d.-wilken/</link>
+      <atom:link href="https://profmyre.github.io/authors/h.-d.-wilken/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. D. Wilken</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>H. D. Wilken</title>
+      <link>https://profmyre.github.io/authors/h.-d.-wilken/</link>
+    </image>
+    
+    <item>
+      <title>Economic Considerations for Integrating Massively Parallel Heterogeneous Devices into the Cloud</title>
+      <link>https://profmyre.github.io/publication/2018_gpu_ficloud/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2018_gpu_ficloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/publication_types/2/</link>
+      <atom:link href="https://profmyre.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://profmyre.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Using TNT-NN to unlock the fast full spatial inversion of large magnetic microscopy data sets</title>
+      <link>https://profmyre.github.io/publication/2019_tnt_using/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2019_tnt_using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steady state, erosional continuity, and the topography of landscapes developed in layered rocks</title>
+      <link>https://profmyre.github.io/publication/2017_erosion/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2017_erosion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal damping and retardation in karst conduits</title>
+      <link>https://profmyre.github.io/publication/2015_temp_karst/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2015_temp_karst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of single-phase, multiphase, and multicomponent lattice-Boltzmann fluid flow simulations on GPU clusters</title>
+      <link>https://profmyre.github.io/publication/2011_lbm_perf/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2011_lbm_perf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
