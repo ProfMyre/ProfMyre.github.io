@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. A. Thaler | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/e.-a.-thaler/</link>
+      <atom:link href="https://profmyre.github.io/authors/e.-a.-thaler/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. A. Thaler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>E. A. Thaler</title>
+      <link>https://profmyre.github.io/authors/e.-a.-thaler/</link>
+    </image>
+    
+    <item>
+      <title>Steady state, erosional continuity, and the topography of landscapes developed in layered rocks</title>
+      <link>https://profmyre.github.io/publication/2017_erosion/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2017_erosion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

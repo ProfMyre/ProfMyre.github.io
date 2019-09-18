@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. J. Luhmann | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/a.-j.-luhmann/</link>
+      <atom:link href="https://profmyre.github.io/authors/a.-j.-luhmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. J. Luhmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>A. J. Luhmann</title>
+      <link>https://profmyre.github.io/authors/a.-j.-luhmann/</link>
+    </image>
+    
+    <item>
+      <title>Thermal damping and retardation in karst conduits</title>
+      <link>https://profmyre.github.io/publication/2015_temp_karst/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2015_temp_karst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

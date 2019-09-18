@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. P. Weiss | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/b.-p.-weiss/</link>
+      <atom:link href="https://profmyre.github.io/authors/b.-p.-weiss/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. P. Weiss</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>B. P. Weiss</title>
+      <link>https://profmyre.github.io/authors/b.-p.-weiss/</link>
+    </image>
+    
+    <item>
+      <title>Using TNT-NN to unlock the fast full spatial inversion of large magnetic microscopy data sets</title>
+      <link>https://profmyre.github.io/publication/2019_tnt_using/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2019_tnt_using/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

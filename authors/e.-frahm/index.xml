@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Frahm | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/e.-frahm/</link>
+      <atom:link href="https://profmyre.github.io/authors/e.-frahm/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Frahm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>E. Frahm</title>
+      <link>https://profmyre.github.io/authors/e.-frahm/</link>
+    </image>
+    
+    <item>
+      <title>TNT: A solver for large dense least-squares problems that takes conjugate gradient from bad in theory, to good in practice</title>
+      <link>https://profmyre.github.io/publication/2018_tnt/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2018_tnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TNT-NN: A fast active set method for solving large non-negative least squares problems</title>
+      <link>https://profmyre.github.io/publication/2017_tntnn/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2017_tntnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
