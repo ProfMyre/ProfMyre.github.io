@@ -1,0 +1,9 @@
+@article{myre2017tnt,
+title = {{TNT-NN}: A Fast Active Set Method for Solving Large Non-Negative Least Squares Problems},
+journal = "Procedia Computer Science",
+volume = "108",
+pages = "755 - 764",
+year ={2017},
+author = {Myre, Joseph M. and E. Frahm and D.J. Lilja and M.O. Saar},
+}
+

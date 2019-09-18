@@ -1,0 +1,9 @@
+@inproceedings{myre2018tnt,
+  title={{TNT}: A Solver for Large Dense Least-Squares Problems that Takes Conjugate Gradient from Bad in Theory, to Good in Practice},
+  author={Myre, Joseph M and Frahm, Erich and Lilja, David J and Saar, Martin O},
+  booktitle={2018 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)},
+  pages={987--995},
+  year={2018},
+  organization={IEEE}
+}
+
