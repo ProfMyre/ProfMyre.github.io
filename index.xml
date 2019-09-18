@@ -35,7 +35,11 @@
       <guid></guid>
       <description>&lt;p&gt;[header]
 image = &amp;ldquo;header.jpg&amp;rdquo;
+<<<<<<< HEAD
 caption = &amp;ldquo;Image credit: Myre&amp;rdquo;&lt;/p&gt;
+=======
+caption = &amp;ldquo;Image credit: &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Academic&lt;/strong&gt;&lt;/a&gt;&amp;ldquo;&lt;/p&gt;
+>>>>>>> 92cee6c2067d0f0af6dfd3c51258d78add0f6131
 </description>
     </item>
     
