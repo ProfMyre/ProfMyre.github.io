@@ -5,12 +5,20 @@
     <link>https://profmyre.github.io/authors/j.-m.-myre/</link>
       <atom:link href="https://profmyre.github.io/authors/j.-m.-myre/index.xml" rel="self" type="application/rss+xml" />
     <description>J. M. Myre</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
       <title>J. M. Myre</title>
       <link>https://profmyre.github.io/authors/j.-m.-myre/</link>
     </image>
+    
+    <item>
+      <title>GPU acceleration of range queries over large data sets</title>
+      <link>https://profmyre.github.io/publication/2020_gpu_wah_bdcat/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2020_gpu_wah_bdcat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using TNT-NN to unlock the fast full spatial inversion of large magnetic microscopy data sets</title>

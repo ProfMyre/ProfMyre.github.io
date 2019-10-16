@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Chiu | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/d.-chiu/</link>
+      <atom:link href="https://profmyre.github.io/authors/d.-chiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Chiu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>D. Chiu</title>
+      <link>https://profmyre.github.io/authors/d.-chiu/</link>
+    </image>
+    
+    <item>
+      <title>GPU acceleration of range queries over large data sets</title>
+      <link>https://profmyre.github.io/publication/2020_gpu_wah_bdcat/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2020_gpu_wah_bdcat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
