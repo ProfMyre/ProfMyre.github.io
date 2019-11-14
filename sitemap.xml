@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://profmyre.github.io/publication_types/2/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://profmyre.github.io/publication_types/3/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -23,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://profmyre.github.io/authors/j.-m.-blackstock/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://profmyre.github.io/authors/j.-m.-myre/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -38,7 +48,22 @@
   </url>
   
   <url>
+    <loc>https://profmyre.github.io/authors/m.-d.-covington/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://profmyre.github.io/authors/m.-nelson/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://profmyre.github.io/authors/m.-perne/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://profmyre.github.io/publication/2019_frontiers/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,11 +80,6 @@
   <url>
     <loc>https://profmyre.github.io/authors/z.-sorenson/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://profmyre.github.io/publication_types/2/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,16 +164,6 @@
   
   <url>
     <loc>https://profmyre.github.io/authors/e.-a.-thaler/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://profmyre.github.io/authors/m.-d.-covington/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://profmyre.github.io/authors/m.-perne/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   

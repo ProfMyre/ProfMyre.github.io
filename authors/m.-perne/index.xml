@@ -5,12 +5,20 @@
     <link>https://profmyre.github.io/authors/m.-perne/</link>
       <atom:link href="https://profmyre.github.io/authors/m.-perne/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Perne</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
       <title>M. Perne</title>
       <link>https://profmyre.github.io/authors/m.-perne/</link>
     </image>
+    
+    <item>
+      <title>Monitoring atmospheric, soil, and dissolved CO2 using a low-cost, arduino monitoring platform (CO2-LAMP): Theory, fabrication, and operation</title>
+      <link>https://profmyre.github.io/publication/2019_frontiers/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2019_frontiers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Steady state, erosional continuity, and the topography of landscapes developed in layered rocks</title>

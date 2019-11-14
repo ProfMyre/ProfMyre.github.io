@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. Blackstock | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/j.-m.-blackstock/</link>
+      <atom:link href="https://profmyre.github.io/authors/j.-m.-blackstock/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. Blackstock</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://profmyre.github.io/img/icon-192.png</url>
+      <title>J. M. Blackstock</title>
+      <link>https://profmyre.github.io/authors/j.-m.-blackstock/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring atmospheric, soil, and dissolved CO2 using a low-cost, arduino monitoring platform (CO2-LAMP): Theory, fabrication, and operation</title>
+      <link>https://profmyre.github.io/publication/2019_frontiers/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2019_frontiers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
