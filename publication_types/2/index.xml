@@ -5,12 +5,20 @@
     <link>https://profmyre.github.io/publication_types/2/</link>
       <atom:link href="https://profmyre.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://profmyre.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Parallel acceleration of CPU and GPU range queries over large data sets</title>
+      <link>https://profmyre.github.io/publication/2020_par_accel/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2020_par_accel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monitoring atmospheric, soil, and dissolved CO2 using a low-cost, arduino monitoring platform (CO2-LAMP): Theory, fabrication, and operation</title>
@@ -49,14 +57,6 @@
       <link>https://profmyre.github.io/publication/2011_lbm_perf/</link>
       <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/publication/2011_lbm_perf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel acceleration of CPU and GPU range queries over large data sets</title>
-      <link>https://profmyre.github.io/publication/2020_par_accel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://profmyre.github.io/publication/2020_par_accel/</guid>
       <description></description>
     </item>
     

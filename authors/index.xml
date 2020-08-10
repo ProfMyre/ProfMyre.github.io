@@ -5,7 +5,7 @@
     <link>https://profmyre.github.io/authors/</link>
       <atom:link href="https://profmyre.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,40 @@
     <item>
       <title>D. Chiu</title>
       <link>https://profmyre.github.io/authors/d.-chiu/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/authors/d.-chiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. M. Myre</title>
+      <link>https://profmyre.github.io/authors/j.-m.-myre/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/authors/j.-m.-myre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Sawin</title>
+      <link>https://profmyre.github.io/authors/j.-sawin/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/authors/j.-sawin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Nelson</title>
+      <link>https://profmyre.github.io/authors/m.-nelson/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/authors/m.-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Sorenson</title>
+      <link>https://profmyre.github.io/authors/z.-sorenson/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/authors/z.-sorenson/</guid>
       <description></description>
     </item>
     
@@ -29,22 +61,6 @@
     </item>
     
     <item>
-      <title>J. M. Myre</title>
-      <link>https://profmyre.github.io/authors/j.-m.-myre/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://profmyre.github.io/authors/j.-m.-myre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Sawin</title>
-      <link>https://profmyre.github.io/authors/j.-sawin/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://profmyre.github.io/authors/j.-sawin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. D. Covington</title>
       <link>https://profmyre.github.io/authors/m.-d.-covington/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
@@ -53,26 +69,10 @@
     </item>
     
     <item>
-      <title>M. Nelson</title>
-      <link>https://profmyre.github.io/authors/m.-nelson/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://profmyre.github.io/authors/m.-nelson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Perne</title>
       <link>https://profmyre.github.io/authors/m.-perne/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/authors/m.-perne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Z. Sorenson</title>
-      <link>https://profmyre.github.io/authors/z.-sorenson/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://profmyre.github.io/authors/z.-sorenson/</guid>
       <description></description>
     </item>
     
