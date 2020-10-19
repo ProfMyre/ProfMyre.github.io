@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B. Schaffner | Joseph M. Myre</title>
-    <link>https://profmyre.github.io/authors/b.-schaffner/</link>
-      <atom:link href="https://profmyre.github.io/authors/b.-schaffner/index.xml" rel="self" type="application/rss+xml" />
-    <description>B. Schaffner</description>
+    <title>B. Tran | Joseph M. Myre</title>
+    <link>https://profmyre.github.io/authors/b.-tran/</link>
+      <atom:link href="https://profmyre.github.io/authors/b.-tran/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Tran</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
-      <title>B. Schaffner</title>
-      <link>https://profmyre.github.io/authors/b.-schaffner/</link>
+      <title>B. Tran</title>
+      <link>https://profmyre.github.io/authors/b.-tran/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://profmyre.github.io/publication/2020_gpu_eff/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/publication/2020_gpu_eff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smartphones as Alternative Cloud Computing Engines: Benefits and Trade-offs</title>
-      <link>https://profmyre.github.io/publication/2018_phone_ficloud/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://profmyre.github.io/publication/2018_phone_ficloud/</guid>
       <description></description>
     </item>
     

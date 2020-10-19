@@ -5,12 +5,20 @@
     <link>https://profmyre.github.io/publication_types/1/</link>
       <atom:link href="https://profmyre.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://profmyre.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Increasing the Efficiency of GPU Bitmap Index Query Processing</title>
+      <link>https://profmyre.github.io/publication/2020_gpu_eff/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2020_gpu_eff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GPU acceleration of range queries over large data sets</title>

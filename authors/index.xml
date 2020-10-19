@@ -5,7 +5,7 @@
     <link>https://profmyre.github.io/authors/</link>
       <atom:link href="https://profmyre.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>B. Schaffner</title>
+      <link>https://profmyre.github.io/authors/b.-schaffner/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/authors/b.-schaffner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Tran</title>
+      <link>https://profmyre.github.io/authors/b.-tran/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/authors/b.-tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>D. Chiu</title>
       <link>https://profmyre.github.io/authors/d.-chiu/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/authors/d.-chiu/</guid>
       <description></description>
     </item>
@@ -23,7 +39,7 @@
     <item>
       <title>J. M. Myre</title>
       <link>https://profmyre.github.io/authors/j.-m.-myre/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/authors/j.-m.-myre/</guid>
       <description></description>
     </item>
@@ -31,7 +47,7 @@
     <item>
       <title>J. Sawin</title>
       <link>https://profmyre.github.io/authors/j.-sawin/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/authors/j.-sawin/</guid>
       <description></description>
     </item>
@@ -113,14 +129,6 @@
       <link>https://profmyre.github.io/authors/m.-o.-saar/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://profmyre.github.io/authors/m.-o.-saar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B. Schaffner</title>
-      <link>https://profmyre.github.io/authors/b.-schaffner/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://profmyre.github.io/authors/b.-schaffner/</guid>
       <description></description>
     </item>
     
