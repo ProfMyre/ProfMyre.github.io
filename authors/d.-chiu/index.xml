@@ -5,12 +5,20 @@
     <link>https://profmyre.github.io/authors/d.-chiu/</link>
       <atom:link href="https://profmyre.github.io/authors/d.-chiu/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Chiu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://profmyre.github.io/img/icon-192.png</url>
       <title>D. Chiu</title>
       <link>https://profmyre.github.io/authors/d.-chiu/</link>
     </image>
+    
+    <item>
+      <title>Increasing the Efficiency of GPU Bitmap Index Query Processing</title>
+      <link>https://profmyre.github.io/publication/2020_enhance_eff_dse/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://profmyre.github.io/publication/2020_enhance_eff_dse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Increasing the Efficiency of GPU Bitmap Index Query Processing</title>
